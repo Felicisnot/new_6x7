@@ -23,7 +23,7 @@
                 &kp F3  &kp PGDN  &kp Q     &kp W     &kp E     &kp R     &kp T             &kp Y    &kp U    &kp I     &kp O   &kp P        &kp NUBS    &kp F8
                 &kp F4  &kp HOME  &kp A     &kp S     &kp D     &kp F     &kp G             &kp H    &kp J    &kp K     &kp L   &lt RSE SEMI &kp APOS    &kp F9
                 &kp F5  &kp END   &kp Z     &kp X     &kp C     &kp V     &kp B             &kp N    &kp M    &kp COMMA &kp DOT &kp FSLH     &kp NUHS    &kp F10
-                                            &kp MINUS &kp EQUAL                                               &kp LBKT &kp RBKT
+                                            &kp MINUS &kp EQUAL &kp SPACE &kp L             &mo LWR  &kp RET  &kp LBKT &kp RBKT
                                             &kp DEL   &kp LCTRL &kp LALT  &kp LSHIFT        &kp BSPC &kp TAB  &kp INS  &kp LWIN
             >;
         };
