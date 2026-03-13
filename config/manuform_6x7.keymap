@@ -8,6 +8,9 @@
 #define RSE 2
 #define ADJ 3
 
+&lt {
+    tapping-term-ms = <500>;
+};
 / {
     keymap {
         compatible = "zmk,keymap";
