@@ -1,0 +1,6 @@
+config SHIELD_MANUFORM_6X7_LEFT
+    def_bool $(shields_list_contains,manuform_6x7_left)
+  
+config SHIELD_MANUFORM_6X7_RIGHT
+    def_bool $(shields_list_contains,manuform_6x7_right)
+  

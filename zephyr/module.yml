@@ -1,0 +1,4 @@
+name: zmk-keyboard-manuform-6x7
+build:
+  settings:
+    board_root: .
