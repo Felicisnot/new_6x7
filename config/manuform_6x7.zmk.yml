@@ -1,0 +1,13 @@
+file_format: "1"
+id: manuform_6x7
+name: dactyl manuform 6x7
+type: shield
+url: https://github.com/Felicisnot/new_6x7
+requires:
+  - pro_micro
+features:
+  - keys
+  - studio
+siblings:
+  - manuform_6x7_left
+  - manuform_6x7_left
